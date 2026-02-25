@@ -132,6 +132,6 @@ docker-compose up --build
 
 ### 🙌 Author
 
-Built with ❤️ by **Vedant Tambe**
+Built with ❤️ by **Tanuja Kurane**
 
 
